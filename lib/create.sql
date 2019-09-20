@@ -1,6 +1,6 @@
 
 CREATE TABLE bears
-  (id integer primary key,
+  (id integer,
   name text,
   age integer,
   gender text,
